@@ -5,5 +5,7 @@
 http://39.96.184.104/
 
 sklearn, pytorch模型训练。预测模型为bayesian regression, random forest, neural network等
+
 预测结果超过商业模型OpenRent
+
 简单推荐系统
