@@ -2,7 +2,7 @@
 9月份论文提交后开放代码。
 
 网址：
-http://39.96.184.104/
+
 
 sklearn, pytorch模型训练。预测模型为bayesian regression, random forest, neural network等
 
